@@ -1,5 +1,5 @@
 # Hello, I'm Alex
-<a href="https://linkedin.com/alexlo13"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/alexlo13/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 Cybersecurity graduate with a background in GRC, including risk analysis, policy development, and compliance frameworks like ISO/IEC 27001. Currently expanding my knowledge toward more technical areas such as log analysis, threat detection, SIEM operations, and cloud security fundamentals.
 
