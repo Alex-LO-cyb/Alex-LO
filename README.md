@@ -11,7 +11,7 @@ I'm focused on building a well-rounded career in cybersecurity, combining a soli
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="">Detection Lab</a>|
+|                                               | <a href="https://github.com/Alex-LO-cyb/Phishing-Attack-Simulator">Phishing Attack Simulator</a> |
 
 ## Tools
 
@@ -22,3 +22,5 @@ I'm focused on building a well-rounded career in cybersecurity, combining a soli
 </div>
 
 ## Projects
+<a href="https://github.com/Alex-LO-cyb/Phishing-Attack-Simulator">Phishing Attack Simulator</a>
+
