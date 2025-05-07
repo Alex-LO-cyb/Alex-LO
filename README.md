@@ -14,11 +14,14 @@ I'm focused on building a well-rounded career in cybersecurity, combining a soli
 |                                               | <a href="https://github.com/Alex-LO-cyb/Phishing-Attack-Simulator">Phishing Attack Simulator</a> |
 
 ## Tools
+<div>
+  <img src="https://img.shields.io/badge/Gophish-1D3557?style=for-the-badge&logo=gnometerminal&logoColor=auto" />
+</div>
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/PECB%20ISO%2FIEC%2027001-Certified-red?style=for-the-badge&logo=bookstack&logoColor=white" />
-<img src="https://img.shields.io/badge/PECB%20ISO%2FIEC%2027005-Certified-blue?style=for-the-badge&logo=shield&logoColor=white" /> 
+  <img src="https://img.shields.io/badge/PECB%20ISO%2FIEC%2027001-Certified-red?style=for-the-badge&logo=bookstack&logoColor=white" />
+  <img src="https://img.shields.io/badge/PECB%20ISO%2FIEC%2027005-Certified-blue?style=for-the-badge&logo=shield&logoColor=white" /> 
 </div>
 
 ## Projects
