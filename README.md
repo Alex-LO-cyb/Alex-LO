@@ -9,9 +9,9 @@ I'm focused on building a well-rounded career in cybersecurity, combining a soli
 
 ## Skills
 
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| Phising                                       | <a href="https://github.com/Alex-LO-cyb/Phishing-Attack-Simulator">Phishing Attack Simulator</a> |
+| Skill                                         | Associated Project         | Objective |
+|-----------------------------------------------|----------------------------|------------|
+| Phising                                      | <a href="https://github.com/Alex-LO-cyb/Phishing-Attack-Simulator">Phishing Attack Simulator</a> |This project involves deploying and configuring a phishing attack simulation environment using Gophish, an open-source framework for simulating targeted phishing attacks via email. The goal is to raise awareness about phishing threats by exposing users to realistic simulations. By launching phishing campaigns, I will be able to analyze user behavior and improve the security culture within the organization.
 
 ## Tools
 <div>
