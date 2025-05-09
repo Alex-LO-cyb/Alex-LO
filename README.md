@@ -11,7 +11,7 @@ I'm focused on building a well-rounded career in cybersecurity, combining a soli
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-|                                               | <a href="https://github.com/Alex-LO-cyb/Phishing-Attack-Simulator">Phishing Attack Simulator</a> |
+| Phising                                       | <a href="https://github.com/Alex-LO-cyb/Phishing-Attack-Simulator">Phishing Attack Simulator</a> |
 
 ## Tools
 <div>
