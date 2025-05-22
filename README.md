@@ -30,5 +30,4 @@ I'm focused on building a well-rounded career in cybersecurity, combining a soli
 </div>
 
 ## Projects
-<a href="https://github.com/Alex-LO-cyb/Phishing-Attack-Simulator">Phishing Attack Simulator</a>
-<a href="https://github.com/Alex-LO-cyb/DDoS-Detection-Lab">DDoS-Detection-Lab</a>
+<a href="https://github.com/Alex-LO-cyb/Phishing-Attack-Simulator">Phishing Attack Simulator</a> - <a href="https://github.com/Alex-LO-cyb/DDoS-Detection-Lab">DDoS-Detection-Lab</a>
