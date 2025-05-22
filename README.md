@@ -11,8 +11,8 @@ I'm focused on building a well-rounded career in cybersecurity, combining a soli
 
 | Skill                       | Associated Project         | Objective |
 |-----------------------------|----------------------------|------------|
-| Social Engineering          | <a href="https://github.com/Alex-LO-cyb/Phishing-Attack-Simulator">Phishing Attack Simulator</a> |This project involves deploying and configuring a phishing attack simulation environment using Gophish, an open-source framework for simulating targeted phishing attacks via email. The goal is to raise awareness about phishing threats by exposing users to realistic simulations. By launching phishing campaigns, I will be able to analyze user behavior and improve the security culture within the organization.
-| IDS, SIEM, SOAR        | <a href="https://github.com/Alex-LO-cyb/DDoS-Detection-Lab">DDoS-Detection-Lab</a> | This project aims to establish a robust cybersecurity infrastructure capable of effectively detecting and responding to Distributed Denial of Service (DDoS) attacks.
+| Social Engineering          | <a href="https://github.com/Alex-LO-cyb/Phishing-Attack-Simulator">Phishing Attack Simulator</a> |This project involves deploying and configuring a phishing attack simulation environment using Gophish
+| IDS, SIEM, SOAR             | <a href="https://github.com/Alex-LO-cyb/DDoS-Detection-Lab">DDoS-Detection-Lab</a> | This project aims to establish a robust cybersecurity infrastructure capable of effectively detecting and responding to Distributed Denial of Service (DDoS) attacks.
 
 ## Tools
 <div>
